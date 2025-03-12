@@ -1,3 +1,4 @@
+test
 <p align="center">
 <img src="./public/logo_full.svg" alt="Jellyseerr" style="margin: 20px 0;">
 </p>
